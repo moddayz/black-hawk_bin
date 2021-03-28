@@ -361,6 +361,7 @@ class HeliSIB_black_hawk_base extends HeliSIB_middle
 	}
 	override void EEItemAttached(EntityAI item, string slot_name)
 	{
+		super.EEItemAttached( item, slot_name );
 		if(m_hawk_blade.Find(slot_name) > -1)
 		{
 			item.SetAnimationPhase("box", 1);
@@ -371,6 +372,7 @@ class HeliSIB_black_hawk_base extends HeliSIB_middle
 	}
 	override void EEItemDetached(EntityAI item, string slot_name)
 	{
+		super.EEItemDetached( item, slot_name );
 		if(m_hawk_blade.Find(slot_name) > -1)
 		{
 			if(!item.IsRuined())
@@ -387,6 +389,7 @@ class HeliSIB_black_hawk_base extends HeliSIB_middle
 	}
 	override void OnAttachmentRuined(EntityAI attachment)
 	{
+		super.OnAttachmentRuined( attachment );
 		if(attachment && attachment.IsRuined())
 		{
 			if(m_hawk_blade.Find(attachment.GetType()) > -1)
