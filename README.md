@@ -12,7 +12,7 @@ Instructions:
 1. Download the archive black-hawk_bin-main.zip
 2. Run Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Launch and select AddonBuilder in it
-4. In the Addons source directory line, specify black-hawk_bin-main \ black-hawk_bin-main \ Helicoptersib - the Helicoptersib folder
+4. In the Addons source directory line, specify  black-hawk_bin-main \ Helicoptersib - the Helicoptersib folder
 5. Uncheck Binarize
 6. Pack it.
 7. You should get Helicoptersib.pbo
@@ -26,7 +26,7 @@ Instructions:
 1. Скачиваете архив black-hawk_bin-main.zip
 2. Запускаете Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Запускаете и выбираете в нем AddonBuilder
-4. В строке Addons source directory указываете black-hawk_bin-main \ black-hawk_bin-main \ Helicoptersib - папка Helicoptersib 
+4. В строке Addons source directory указываете black-hawk_bin-main \ Helicoptersib - папка Helicoptersib 
 5. Уберите галочку Binarize
 6. Запаковываете.
 7. Должен получиться Helicoptersib.pbo
