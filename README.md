@@ -13,10 +13,11 @@ Instructions:
 2. Run Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Launch and select AddonBuilder in it
 4. In the Addons source directory line, specify  black-hawk_bin-main \ Helicoptersib - the Helicoptersib folder
-5. Uncheck Binarize
-6. Pack it.
-7. You should get Helicoptersib.pbo
-8. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
+5. For those who decided to ignore in 4 point, I repeat, DO NOT PACK black-hawk_bin-main the folder !!! find Helicoptersib a folder in it and pack it in pbo ...!!!
+6. Uncheck Binarize
+7. Pack it.
+8. You should get Helicoptersib.pbo
+9. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
 
 
 
