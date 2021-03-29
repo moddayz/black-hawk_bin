@@ -324,8 +324,8 @@ class CfgVehicles
 				class Chassis
 				{
 					fatalInjuryCoef = -1;
-					memoryPoints[] = {"dmgzone_chassis"};
-					componentNames[] = {"dmgzone_chassis"};
+					memoryPoints[] = {"dmgzone_chassis","dmgzone_proj"};
+					componentNames[] = {"dmgzone_chassis","dmgzone_proj"};
 					class Health
 					{
 						hitpoints = 3000;
@@ -394,22 +394,6 @@ class CfgVehicles
 					transferToZonesNames[] = {};
 					inventorySlots[] = {"SIBblack_hawk_bladem1","SIBblack_hawk_bladem2","SIBblack_hawk_bladem3","SIBblack_hawk_bladem4"};
 					inventorySlotsCoefs[] = {0.1,0.1,0.1,0.1};
-					
-				};
-				class Proj
-				{
-					fatalInjuryCoef = -1;
-					memoryPoints[] = {"dmgzone_proj"};
-					componentNames[] = {"dmgzone_proj"};
-					class Health
-					{
-						hitpoints = 1000;
-						transferToGlobalCoef = 0;
-
-					};
-					transferToZonesNames[] = {};
-					inventorySlots[] = {"Reflector_2_1"};
-					inventorySlotsCoefs[] = {0.1};
 					
 				};
 			};
