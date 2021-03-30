@@ -190,7 +190,7 @@ class CfgVehicles
 		model = "\HelicopterSIB\black-hawk\SIBblack_hawk_blade1.p3d";
 		inventorySlot[] = {"SIBblack_hawk_blade1"};
 		//rotationFlags = 8;
-		itemSize[] = {20,20};
+		itemSize[] = {10,10};
 		class AnimationSources
 		{
 			class box
