@@ -19,7 +19,7 @@ class CfgMods
 		credits="";
 		author="SIBNIC";
 		authorID="";
-		version="version 4";
+		version="version 5";
 		extra=0;
 		type="mod";
 		dependencies[]=
