@@ -32,3 +32,7 @@ Instructions:
 6. Запаковываете.
 7. Должен получиться HelicopterSIB_black-hawk.pbo
 8. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
+
+
+License
+The rights to the model are transferred by the author
