@@ -8,7 +8,7 @@ If the mod description does not include a link to my github, I will consider thi
 
 
 Instructions:
-
+This is a helicopter
 1. Download the archive black-hawk_bin-main.zip
 2. Run Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Launch and select AddonBuilder in it
@@ -23,7 +23,7 @@ Instructions:
 
 
 Инструкция:
-
+Это вертолет
 1. Скачиваете архив black-hawk_bin-main.zip
 2. Запускаете Dayz_tools https://store.steampowered.com/app/830640/DayZ_Tools/
 3. Запускаете и выбираете в нем AddonBuilder
