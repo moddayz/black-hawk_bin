@@ -23,6 +23,7 @@ This is a helicopter
 6. Uncheck Binarize
 7. Pack it.
 8. You should get HelicopterSIB_black-hawk.pbo (if such a name already exists after packing, rename pbo)
+9. Place the required text in the description of the mod
 
 
 
@@ -36,6 +37,7 @@ This is a helicopter
 5. Уберите галочку Binarize
 6. Запаковываете.
 7. Должен получиться HelicopterSIB_black-hawk.pbo
+8. Размещаете обязательный текст в описании мода
 
 License
 The rights to the model are transferred by the author
