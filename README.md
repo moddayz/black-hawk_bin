@@ -23,7 +23,6 @@ This is a helicopter
 6. Uncheck Binarize
 7. Pack it.
 8. You should get HelicopterSIB_black-hawk.pbo (if such a name already exists after packing, rename pbo)
-9. Place it pbo in any of your mods with a link to the source https://github.com/moddayz
 
 
 
@@ -37,8 +36,6 @@ This is a helicopter
 5. Уберите галочку Binarize
 6. Запаковываете.
 7. Должен получиться HelicopterSIB_black-hawk.pbo
-8. Размещаете pbo в любой свой мод с указанием ссылкой на источник https://github.com/moddayz
-
 
 License
 The rights to the model are transferred by the author
